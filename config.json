@@ -1,8 +1,8 @@
 {
    "author": ["MahMUD"],
     "facebookAccount": {
-    "email": "mahmudx077@gmail.com",
-    "password": "",
+    "email": "bakibulhasan56@gmail.com",
+    "password": "s1asu2ke",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -18,7 +18,7 @@
     "ignoreCommand": []
   },
 "adminBot": [
-    100000604806774"
+    100000604806774 ]"
   ],
   "whiteListMode": {
     "enable": false,
